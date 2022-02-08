@@ -12,7 +12,7 @@ Reliable on: Python3, pandas, matplotlib, tkinter
 
 ## Important:
 - Name of the files
--- if the simultations have been done at a specific angle, this must be stated in the filename.
+- if the simultations have been done at a specific angle, this must be stated in the filename.
 Format: "..._angle_Grad.odt" or "..._angle_deg.odt". Otherwise the program can't handle the 
 data accordingly.
 - Columns
