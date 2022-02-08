@@ -12,15 +12,15 @@ Reliable on: Python3, pandas, matplotlib, tkinter
 
 ## Important:
 - Name of the files
---if the simultations have been done at a specific angle, this must be stated in the filename.
-		   Format: "..._angle_Grad.odt" or "..._angle_deg.odt". Otherwise the program can't handle the 
-		   data accordingly.
-	- Columns
-		-> The columns can't be identified just by the file and must be given specifically in the code.
-		   This means if in future versions of OOMMF the column names might defer so the program needs
-		   an adjustment.
-	- Files must have an individual name.
-		-> If a filename already consists in the saving folder it is not overwritten.
+-- if the simultations have been done at a specific angle, this must be stated in the filename.
+Format: "..._angle_Grad.odt" or "..._angle_deg.odt". Otherwise the program can't handle the 
+data accordingly.
+- Columns
+--The columns can't be identified just by the file and must be given specifically in the code.
+This means if in future versions of OOMMF the column names might defer so the program needs
+an adjustment.
+- Files must have an individual name.
+-- If a filename already consists in the saving folder it is not overwritten.
 
 ## Example Usecase:
 1. Open Program
