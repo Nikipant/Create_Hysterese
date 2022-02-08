@@ -8,7 +8,7 @@ In this case contact niklas.pantschitz@gmx.de for further help.
 
 Reliable on: Python3, pandas, matplotlib, tkinter
 
-#USER MANUAL - CREATE HYSTERESE
+# USER MANUAL - CREATE HYSTERESE
 
 ## Important:
 - Name of the files
