@@ -8,11 +8,11 @@ In this case contact niklas.pantschitz@gmx.de for further help.
 
 Reliable on: Python3, pandas, matplotlib, tkinter
 
-USER MANUAL - CREATE HYSTERESE
+#USER MANUAL - CREATE HYSTERESE
 
-Important:
-	- Name of the files
-		-> if the simultations have been done at a specific angle, this must be stated in the filename.
+## Important:
+- Name of the files
+--if the simultations have been done at a specific angle, this must be stated in the filename.
 		   Format: "..._angle_Grad.odt" or "..._angle_deg.odt". Otherwise the program can't handle the 
 		   data accordingly.
 	- Columns
@@ -22,13 +22,13 @@ Important:
 	- Files must have an individual name.
 		-> If a filename already consists in the saving folder it is not overwritten.
 
-# Example Usecase:
+## Example Usecase:
 1. Open Program
 2. Press Load Button and select wanted files. (Files must be selected all at once)
 3. Press "To png" or "To csv" to command actions.
 4. Repeat step 2-3 if wanted.
 
-# Open OOMMF .odt data in Excel
+## Open OOMMF .odt data in Excel
 1.  Load .odt files into program 
 2.  Create .csv files by pressing Button "To csv" and choosing folder
 3.  In Excel:
